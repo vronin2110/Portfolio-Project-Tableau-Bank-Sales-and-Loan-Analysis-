@@ -1,0 +1,1 @@
+The Main Dashboard serves as the primary overview, showcasing key metrics and insights. Additional, detailed analysis is available on Subsequent Dashboards, which are accessible through navigation buttons. Each Subsequent Dashboard offers in-depth analysis of specific components presented on the Main Dashboard.
